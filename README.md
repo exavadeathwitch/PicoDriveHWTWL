@@ -1,6 +1,6 @@
-# PicoDriveTWL
+# PicoDriveHWTWL
 SEGA Genesis emulator for the Nintendo DS(i)
-
+This fork aims to replace the software-based rendering with hardware-based rendering to improve performance, as well as after that add sound support to match the closed-source emulator JenesisDS.
 # Credits
 * Ryan FB: Original PicoDriveDS source code
 * RocketRobz: New features
